@@ -3,5 +3,6 @@ print("how are you? tim")
 
 print("i`m not bad. are you?") 
 
+print("-------------")
 
 print("____________________")
